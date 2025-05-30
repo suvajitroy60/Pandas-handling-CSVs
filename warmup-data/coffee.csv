@@ -1,15 +1,8 @@
-Day,Coffee Type,Units Sold
-Monday,Espresso,25
-Monday,Latte,15
-Tuesday,Espresso,30
-Tuesday,Latte,20
-Wednesday,Espresso,35
-Wednesday,Latte,25
-Thursday,Espresso,40
-Thursday,Latte,30
-Friday,Espresso,45
-Friday,Latte,35
-Saturday,Espresso,45
-Saturday,Latte,35
-Sunday,Espresso,45
-Sunday,Latte,35
+Item,Category,Price,In_Stock
+Espresso,Drink,3.50,True
+Latte,Drink,4.00,True
+Cappuccino,Drink,4.25,True
+Croissant,Pastry,2.50,True
+Muffin,Pastry,2.75,False
+Sandwich,Food,5.00,True
+Salad,Food,6.00,True
